@@ -1,0 +1,23 @@
+TiLi (TimeLine maker and viewer)
+With colors and numbers!
+Fully free and open source!
+No annoying paywalls!
+No registration!
+Quick and good looking timelines!
+With near zero effort!
+Just a text file and an application!
+Works on terminal and (soon) on X!
+EOS
+Titles are Cyan
+Dates are red
+Everything else is white
+Sectors are separated by "EOS"
+Check the ".tili" file for that
+EOS
+Example
+1980-2000
+Some text
+
+- A
+- B
+- C
