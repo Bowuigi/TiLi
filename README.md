@@ -13,7 +13,3 @@ Writing TimeLines
 Already on the viewthis.tili TimeLine
 
 But as a resume, it divides in sections, each separated by "EOS" (End Of Section), example:
-
-```tili
-
-```
